@@ -84,8 +84,8 @@ print("")
 time.sleep(1.2)
 
 #kilépés a programmból
-input("Nyomj egy Entert a kilépéshez")
 print("By: Váradi Zsolt 10.A")
+input("Nyomj egy Entert a kilépéshez")
 
     
 
