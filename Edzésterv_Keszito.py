@@ -82,7 +82,7 @@ else:
 #szűnet
 print("")
 time.sleep(1.2)
-
+print("")
 #kilépés a programmból
 print("By: Váradi Zsolt 10.A")
 input("Nyomj egy Entert a kilépéshez")
